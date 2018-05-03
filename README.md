@@ -1,3 +1,6 @@
+# Diskusi
+Join grup Telegram https://t.me/joinchat/DRy3Ag3E9MmXrFqBpi1w0w
+
 # Lyric Database
 
 - Audio quran dari https://quranicaudio.com
