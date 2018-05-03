@@ -1,0 +1,3 @@
+# Lyric Database
+
+Coming soon..
