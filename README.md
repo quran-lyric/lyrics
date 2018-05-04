@@ -38,6 +38,7 @@ Untuk arch linux, bisa langsung pakai pacman
 	sudo pacman -S osdlyrics
 	```
 Untuk Ubuntu versi artful-ardvark ke atas harus compile sendiri. Info lebih lengkap bisa kunjungi halaman [github](https://github.com/osdlyrics/osdlyrics) mereka. Untuk singkatnya bisa seperti ini:
+
 	```bash
 	sudo apt install libappindicator-dev libdbus-glib-1-dev intltool libnotify-dev python-dbus python-pycurl python-chardet
 	git clone https://github.com/osdlyrics/osdlyrics.git
