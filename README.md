@@ -37,6 +37,15 @@ Untuk arch linux, bisa langsung pakai pacman
 	```bash
 	sudo pacman -S osdlyrics
 	```
+Untuk Ubuntu versi artful-ardvark ke atas harus compile sendiri. Info lebih lengkap bisa kunjungi halaman [github](https://github.com/osdlyrics/osdlyrics) mereka. Untuk singkatnya bisa seperti ini:
+	```bash
+	sudo apt install libappindicator-dev libdbus-glib-1-dev intltool libnotify-dev python-dbus python-pycurl python-chardet
+	git clone https://github.com/osdlyrics/osdlyrics.git
+	cd osdlyrics
+	sudo ./autogen.sh
+	sudo make
+	sudo make install
+	```
 
 2. Download audionya, misal: http://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/001.mp3
 3. Download file liriknya, misal: https://github.com/quran-lyric/lyrics/blob/master/mishaari_raashid_al_3afaasee/001.lrc
