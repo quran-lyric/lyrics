@@ -1,7 +1,7 @@
 # Ini mau ngapain?
 Kita mau bikin database lyric dari berbagai audio quran yang bisa didownload di https://quranicaudion.com.
 
-# Gimana caranya
+# Gimana caranya?
 Baca kebawah, gabung telegram, kenalan, abis itu pilih [tugas](https://github.com/quran-lyric/lyrics/issues) yang mau dikerjakan.
 
 # Diskusi
