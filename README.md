@@ -1,3 +1,9 @@
+# Ini mau ngapain?
+Kita mau bikin database lyric dari berbagai audio quran yang bisa didownload di https://quranicaudion.com.
+
+# Gimana caranya
+Baca kebawah, gabung telegram, kenalan, abis itu pilih [tugas](https://github.com/quran-lyric/lyrics/issues) yang mau dikerjakan.
+
 # Diskusi
 Join grup Telegram https://t.me/joinchat/DRy3Ag3E9MmXrFqBpi1w0w
 
@@ -7,7 +13,6 @@ Join grup Telegram https://t.me/joinchat/DRy3Ag3E9MmXrFqBpi1w0w
 - Text quran copy dari https://quran.com
 - Format lyric pakai LRC https://en.wikipedia.org/wiki/LRC_(file_format)
 - Baris Quran ikut ke mushaf madinah https://quran.ksu.edu.sa
-
 
 # Cara ngecek hasil lyric
 
