@@ -31,4 +31,21 @@ Join grup Telegram https://t.me/joinchat/DRy3Ag3E9MmXrFqBpi1w0w
 coming soon..
 
 ## Linux
-coming soon..
+1. Install OSD-Lyric
+Untuk arch linux, bisa langsung pakai pacman
+
+```bash
+sudo pacman -S osdlyrics
+```
+
+2. Download audionya, misal: http://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/001.mp3
+3. Download file liriknya, misal: https://github.com/quran-lyric/lyrics/blob/master/mishaari_raashid_al_3afaasee/001.lrc
+4. Pastikan file lirik dan audio-nya sama dan berada di satu folder.
+5. Mainkan audio dengan audio player kesukaan.
+6. Lalu buka osdlyrics.
+
+### Screenshot
+
+Menggunakan VLC di Arch Linux (Xfce)
+
+![VLC-OSDLYRICS](https://raw.githubusercontent.com/ibnujakaria/ibnujakaria.github.io/master/images/Screenshot_2018-05-04_14-41-32.png)
