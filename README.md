@@ -60,3 +60,7 @@ coming soon..
 Menggunakan VLC di Arch Linux (Xfce)
 
 ![VLC-OSDLYRICS](https://raw.githubusercontent.com/ibnujakaria/ibnujakaria.github.io/master/images/Screenshot_2018-05-04_14-41-32.png)
+
+Menggunakan Rhythmbox di Ubuntu 17.10
+
+![rythmbox di ubuntu](https://raw.githubusercontent.com/ibnujakaria/ibnujakaria.github.io/master/images/Screenshot%20from%202018-05-04%2016-33-09.png)
