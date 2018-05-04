@@ -2,7 +2,7 @@
 Kita mau bikin database lyric dari berbagai audio quran yang bisa didownload di https://quranicaudion.com.
 
 # Gimana caranya?
-Baca kebawah, gabung telegram, kenalan, abis itu pilih [tugas](https://github.com/quran-lyric/lyrics/issues) yang mau dikerjakan.
+Baca kebawah, gabung telegram, kenalan, abis itu pilih [tugas](https://github.com/quran-lyric/lyrics/issues) yang mau dikerjakan. Komen ditugasnya (issue), nanti Admin akan invite dan assign issue ke Anda.
 
 # Diskusi
 Join grup Telegram https://t.me/joinchat/DRy3Ag3E9MmXrFqBpi1w0w
