@@ -12,7 +12,7 @@ Join grup Telegram https://t.me/joinchat/DRy3Ag3E9MmXrFqBpi1w0w
 - Audio quran dari https://quranicaudio.com
 - Text quran copy dari https://quran.com
 - Format lyric pakai LRC https://en.wikipedia.org/wiki/LRC_(file_format)
-- Baris Quran ikut ke mushaf madinah https://quran.ksu.edu.sa
+- Baris Quran ikut ke mushaf madinah http://quran.ksu.edu.sa
 
 # Cara ngecek hasil lyric
 
@@ -28,7 +28,21 @@ Join grup Telegram https://t.me/joinchat/DRy3Ag3E9MmXrFqBpi1w0w
 
 
 ## Windows
-coming soon..
+- Download [MiniLyrics] (http://www.crintsoft.com/MiniLyrics_download.htm) (FREE)
+- Install MiniLyrics
+- Install plugin sesuai player yang ada. (support: Windows Media Player, iTunes, Winamp, dll.)
+- Download sample audio nya (http://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/001.mp3)
+- Download sample lirik (https://github.com/quran-lyric/lyrics/blob/master/mishaari_raashid_al_3afaasee/001.lrc)
+- Jalankan Windows Media Player. (MiniLyrics akan otomatis berjalan)
+- Puter audio dari Windows Media Player
+- Setting MiniLyrics agar bisa droppable lyric. View > Uncheck: Hide Background on Lost Focus
+- Drag & Drop sample lyric ke MiniLyrics
+
+*Notes: Tampilan Penanda Ayat akan terbalik di MiniLyrics (buka kurung akan menjadi tutup kurung, dan sebaliknya)*
+
+### Screenshot
+
+![MiniLyrics](https://raw.githubusercontent.com/aragen/aragen.github.io/master/minilyrics-1.jpg)
 
 ## Linux
 1. Install OSD-Lyric
