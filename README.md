@@ -12,7 +12,7 @@ Join grup Telegram https://t.me/joinchat/DRy3Ag3E9MmXrFqBpi1w0w
 - Audio quran dari https://quranicaudio.com
 - Text quran copy dari https://quran.com
 - Format lyric pakai LRC https://en.wikipedia.org/wiki/LRC_(file_format)
-- Baris Quran ikut ke mushaf madinah https://quran.ksu.edu.sa
+- Baris Quran ikut ke mushaf madinah http://quran.ksu.edu.sa
 
 # Cara ngecek hasil lyric
 
